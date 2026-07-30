@@ -1,0 +1,7 @@
+https://brandon3d.com/texture-baking/
+
+extrusion : 		0.1
+Max ray distance : 	0
+
+Для первого уровня неплохо подходит angle based, minimum streach, smart развертки.
+С указанными выше параметрами.
